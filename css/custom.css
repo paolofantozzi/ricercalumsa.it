@@ -1,0 +1,11 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+:root {
+	--cnvs-themecolor: #007749;
+	--cnvs-themecolor-rgb: 0, 119, 73;
+}
